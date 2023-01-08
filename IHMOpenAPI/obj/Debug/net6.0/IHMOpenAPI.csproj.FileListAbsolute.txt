@@ -1,0 +1,17 @@
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\IHMOpenAPI.exe
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\IHMOpenAPI.deps.json
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\IHMOpenAPI.runtimeconfig.json
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\IHMOpenAPI.dll
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\IHMOpenAPI.pdb
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.csproj.AssemblyReference.cache
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.AssemblyInfoInputs.cache
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.AssemblyInfo.cs
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.csproj.CopyComplete
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.dll
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\refint\IHMOpenAPI.dll
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.pdb
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\IHMOpenAPI.genruntimeconfig.cache
+C:\Users\Vincent\source\repos\TestWebAPI\IHMOpenAPI\obj\Debug\net6.0\ref\IHMOpenAPI.dll
